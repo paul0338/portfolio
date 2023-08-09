@@ -34,6 +34,18 @@ main{
     color: #cacaca;
     text-align: center;
     font-size: larger;
-    padding: 10%;
+    padding: 6%;
     border-bottom:solid #cacaca 2px;
+}
+footer
+ {
+  background-color: #333;
+  padding: 2%;
+  color: #432323;
+  text-align: center;
+}
+.button-container{
+  color:#cacaca ;
+  font-size:50px;
+  
 }
